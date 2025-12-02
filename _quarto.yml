@@ -3,15 +3,20 @@ project:
   output-dir: docs
 
 website:
+  favicon: images/ZoeUBC.jpeg
   title: "Zoe Horlick"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
         text: Home
       - about.qmd
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - courses.qmd
+      - sidebar:projects
 
 format:
   html:
