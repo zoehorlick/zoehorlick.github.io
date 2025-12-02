@@ -7,8 +7,9 @@ about:
     - icon: github
       text: Github
       href: https://github.com/zoehorlick
+
 ---
 
-**Graduate Student in Neuroscience **
+**Graduate Student in Neuroscience**
 
-University of British Columbia 
+University of British Columbia
