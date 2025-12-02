@@ -3,12 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "zoehorlick.github.io"
+  title: "Zoe Horlick"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: index.qmd
+        text: Home
 
 format:
   html:
