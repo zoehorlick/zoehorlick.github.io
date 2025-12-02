@@ -8,6 +8,7 @@ website:
   navbar:
     background: primary
     search: true
+    logo: images/ZoeUBC.jpeg
     left:
       - href: index.qmd
         text: Home
